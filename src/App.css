@@ -1,0 +1,15 @@
+.content {
+  width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.file-loader {
+  padding: 10px;
+  align-content: center;
+}
+
+.image {
+  width: 50%;
+  background-color: #85b6f1;
+}

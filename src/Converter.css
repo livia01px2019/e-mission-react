@@ -1,0 +1,32 @@
+.converter__content {
+  padding-bottom: 0px;
+}
+
+.input {
+  width: 400px;
+  padding: 10px 0px 10px 0px;
+  padding-bottom: 10px;
+}
+
+.output {
+  width: 400px;
+  padding: 10px 0px 10px 20px;
+  border-left: 4px solid #85b6f1;
+  background: #b3d4fc;
+}
+
+.error {
+  color: #c91b00;
+}
+
+.button {
+  background: #b3d4fc;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
